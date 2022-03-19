@@ -1,0 +1,6 @@
+! Youtube example
+! https://www.youtube.com/watch?v=aPy_X67YbLk
+! FREQ,S11mag,S11ang,S21mag,S21ang,S12mag,S12andS22mag,S22ang
+# GHZ S MA R 50
+    1.000   0.277   -59   1.92   64   0.078    93   0.848    -31
+    2.000   0.277   -59   1.92   64   0.078    93   0.848    -31
